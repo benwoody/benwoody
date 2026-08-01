@@ -12,4 +12,4 @@ Currently building [Thurin Labs](https://thurin.id) — ZK proof-of-personhood a
 - 🐧 [Codeberg](https://codeberg.org/benwoody)
 
 
-[https://thurin.id/card/ens/bendoubleu.eth.png](https://thurin.id/card/ens/bendoubleu.eth.png)
+[!https://thurin.id/card/ens/bendoubleu.eth.png](https://thurin.id/card/ens/bendoubleu.eth.png)
