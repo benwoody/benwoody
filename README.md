@@ -1,4 +1,4 @@
-![Directed by David Lynch](https://raw.githubusercontent.com/benwoody/benwoody/refs/heads/main/lynch.png)
+![Too many secrets marty](https://raw.githubusercontent.com/benwoody/benwoody/refs/heads/main/toomanysecrets.jpg)
 
 ---
 
