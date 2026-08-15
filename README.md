@@ -4,7 +4,7 @@
 
 Engineering Manager & builder working on identity, privacy, and web3 infrastructure.
 
-Currently building [Thurin Labs](https://thurin.id) — ZK proof-of-personhood and identity primitives.
+Currently building [Thurin Labs](https://thurin.id). ZK proofs and social identity primitives. Helping you own your identity.
 
 **Find me:**
 - 🌐 [benwoodall.eth.limo](https://benwoodall.eth.limo)
